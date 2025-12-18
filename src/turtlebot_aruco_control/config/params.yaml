@@ -1,0 +1,10 @@
+aruco_controller:
+  ros__parameters:
+    aruco_dict: "DICT_4X4_50"
+    marker_id: 0
+    linear_speed: 0.2
+    angular_speed: 0.0
+    threshold: 20
+    debug: true
+    camera_topic: "/image_raw"
+    cmd_vel_topic: "/cmd_vel"
