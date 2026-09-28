@@ -4,7 +4,7 @@ A ROS 2 node that watches an ArUco marker through a webcam and drives a TurtleBo
 
 ## Context
 
-Small course lab for *Tools and Software for Robotic Systems* (Poznań University of Technology), ROS 2 Humble on Ubuntu 22.04.
+Small individual course lab for *Tools and Software for Robotic Systems* (Poznań University of Technology), ROS 2 Humble on Ubuntu 22.04.
 
 The setup is deliberately mixed: the robot is **simulated in Gazebo**, while the camera is a **real USB/laptop webcam**. You hold a printed or on-screen marker in front of your own camera and the simulated robot reacts.
 
